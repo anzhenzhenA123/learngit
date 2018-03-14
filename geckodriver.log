@@ -1,0 +1,22 @@
+1520992218785	geckodriver	INFO	geckodriver 0.19.0
+1520992218801	geckodriver	INFO	Listening on 127.0.0.1:5167
+1520992221051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator.DFSS-20160829VV\\AppData\\Local\\Temp\\rust_mozprofile.a0OK4NZbEVPM"
+1520992224230	Marionette	INFO	Enabled via --marionette
+1520992231631	Marionette	INFO	Listening on port 5176
+1520992231686	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator.DFSS-20160829VV\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=gi&json=1&p=3&sid=&req=2&csor=2&pwd=g&cb=jQuery110207081212013085594_1520992235277&_=1520992235280, line 1: TypeError: jQuery110207081212013085594_1520992235277 is not a function
+1520992526042	geckodriver	INFO	geckodriver 0.19.0
+1520992526042	geckodriver	INFO	Listening on 127.0.0.1:5899
+1520992528028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator.DFSS-20160829VV\\AppData\\Local\\Temp\\rust_mozprofile.E1kBK9GRsODZ"
+1520992529196	Marionette	INFO	Enabled via --marionette
+1520992531988	Marionette	INFO	Listening on port 5909
+1520992532261	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator.DFSS-20160829VV\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://res.rongzi.com/Main/library/jquery/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://static-ssl.mediav.com/mv.js, line 1: unreachable code after return statement
+JavaScript warning: https://res.rongzi.com/Main/library/jquery/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://static-ssl.mediav.com/mv.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Administrator.DFSS-20160829VV\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
