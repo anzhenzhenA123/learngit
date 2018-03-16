@@ -1,0 +1,11 @@
+安装参考：https://www.cnblogs.com/zlslch/p/6984403.html
+安装完成后在http://localhost:8888/tree页面（即jupyter主页）点upload，把.ipynb文件（本地路径）加载进去，就可以在浏览器直接打开执行保存结果了。
+
+juypter notebook：一个交互式笔记本，支持运行 40 多种编程语言。 利用她来写 Python，代码和运行结果都可以保存下载，十分方便
+
+pip install jupyter (切换到python/scripts目录)
+pip3 install pandas
+pip3 install matplotlib
+
+pip3 install xlrd
+pip3 install openpyxl(涉及到excel打开)
