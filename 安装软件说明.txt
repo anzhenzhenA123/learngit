@@ -1,0 +1,62 @@
+1.使用jmeter，需要先配置java环境，安装jdk（D:\jdk_8u101_windows_i586_8.0.1010.13安装包，安装在C:\Program Files (x86)\Java）
+  ----配置环境变量（参考http://jingyan.baidu.com/article/6dad5075d1dc40a123e36ea3.html）
+
+  下载apache-jmeter-3.0后解压（不需要安装），运行jmeter的批处理文件即可；
+
+
+http://wenku.baidu.com/link?url=ePuq4gJFNgisEdWjiRFDVrN0qWR9Vy1KRY7rTpQLNXGvAmsBaObgsdorc5xcXmQ7fSFLFWjfKma3OmjfBuiyKqORLemNr6jMOl5WI0786Ci
+
+2.使用adb命令，需要下载adb包和platform-tools（解压），然后配置环境变量即可在cmd界面运行adb命令；
+  配置环境变量步骤参考：http://jingyan.baidu.com/article/17bd8e52f514d985ab2bb800.html
+
+3.tfs
+  安装包D：\VS2013_RTM_TEAMEXP_CHS
+
+4.安装appium（http://www.cnblogs.com/fnng/p/4540731.html）
+
+  先安装node.js，安装包在E:\node-v4.5.0-x64，安装在D盘D:\Program Files\nodejs。
+  安装完成后配置环境变量
+  {一个是PATH上增加node.exe的目录D:\Program Files\nodejs,一个是增加环境变量NODE_PATH,值为D:\Program Files\nodejs\node_modules}
+  然后运行cmd，输入npm即出现与之相关的解释和相关命令；
+
+
+  然后安装appium（https://bitbucket.org/appium/appium.app/downloads/）
+  安装包在E:\
+  安装在D盘D:\Program Files，然后配置环境变量，然后运行cmd的appium-doctor即可。
+
+   http://www.testerhome.com/topics（学习交流）
+
+5.jenkins 账号密码admin  admin2016
+  
+  http://fir.im/j6v9
+
+  http://fir.im/g81m（admin  fzzx123）
+
+6.sql
+ 
+  服务器10.51.3.17
+  Rongzi_BZone;
+  user id=BZone;
+  password=Zone360;
+
+
+  掌握一门开发语言，java、Python、ruby、c#
+ b. 熟悉被测系统
+  比如你是web测试，你就得懂js、css、html、xpath
+  你是移动端测试，你就得具备Android 开发基础和iOS开发基础，会debug app
+  【安卓的一些书籍：http://pan.baidu.com/s/1hqGbE2w】
+
+  你是 C/S测试你就要很熟悉TCP、IP协议
+ c. 掌握一套自动化测试框架(工具)
+    比如 selenium/appium 
+            nunit/testng
+           robot framework/cucumber
+
+
+1.安装ideaIU-2017.2.2.exe（F盘）
+2.安装appium（F盘）
+3.脚本在F盘MScript文件夹
+
+
+
+https://genymotion.en.softonic.com/download（安装genymotion模拟器），安装包在F盘.exe
