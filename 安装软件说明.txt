@@ -60,3 +60,7 @@ http://wenku.baidu.com/link?url=ePuq4gJFNgisEdWjiRFDVrN0qWR9Vy1KRY7rTpQLNXGvAmsB
 
 
 https://genymotion.en.softonic.com/download（安装genymotion模拟器），安装包在F盘.exe
+
+
+7.redis安装
+https://github.com/MicrosoftArchive/redis/releases
