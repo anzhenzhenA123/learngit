@@ -64,3 +64,6 @@ https://genymotion.en.softonic.com/download（安装genymotion模拟器），安装包在F盘
 
 7.redis安装
 https://github.com/MicrosoftArchive/redis/releases
+
+8.git安装
+https://www.yiibai.com/git/git_environment.html
